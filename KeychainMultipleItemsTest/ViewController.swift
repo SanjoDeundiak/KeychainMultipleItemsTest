@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        KeychainWrapper().addOneItem()
-        KeychainWrapper().addTwoItems()
+        KeychainWrapper().addAndCheckOneItem()
+        KeychainWrapper().addAndCheckTwoItems()
     }
 
     override func didReceiveMemoryWarning() {
