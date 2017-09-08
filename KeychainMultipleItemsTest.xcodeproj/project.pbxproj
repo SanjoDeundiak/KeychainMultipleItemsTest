@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					42DF2CB01F60326B0088F8AE = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = A59V7K656Y;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -264,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = A59V7K656Y;
 				INFOPLIST_FILE = KeychainMultipleItemsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.virgilsecurity.KeychainMultipleItemsTest;
@@ -276,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = A59V7K656Y;
 				INFOPLIST_FILE = KeychainMultipleItemsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.virgilsecurity.KeychainMultipleItemsTest;
